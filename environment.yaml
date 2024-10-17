@@ -1,0 +1,8 @@
+name: photostat
+channels:
+  - defaults
+dependencies:
+  - seaborn=0.13.2=py312hca03da5_0
+  - matplotlib=3.8.4=py312hca03da5_0
+  - matplotlib-base=3.8.4=py312hd77ebd4_0
+  - matplotlib-inline=0.1.6=py312hca03da5_0
